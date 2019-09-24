@@ -1,0 +1,2 @@
+# User-Profiling
+In order to provide diverse, tailored and targeted solutions to a member, the system needs to get to know it better. The more active the person is on the social network, the more the system will learn to know it better and will offer him solutions more adapted to his profile. Thus, I start from the fact that knowing the Sentiment (feeling) of the person on each Topic after detecting it with the techniques of Topic Modeling will allow me to better know what she likes to offer more relevant results and more targeted advertising.
